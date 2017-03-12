@@ -1,0 +1,12 @@
+﻿{
+    "name": "awsnodejs",
+    "version": "1.0.0",
+    "description": "AWS Lambda function to simulate eCM eSlip project function events.",
+
+    "dependencies": {
+        "aws-sdk": ">=2.1.8",
+        "dynamodb-doc": ">=1.0.0",
+        "crypto": ">=0.0.3",
+        "sprintf-js": ">=1.0.3"
+    }
+}

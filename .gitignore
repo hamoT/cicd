@@ -1,7 +1,6 @@
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Makefile
-cmake_install.cmake
-install_manifest.txt
-CTestTestfile.cmake
+.vscode/
+node_modules/
+awsnodejs/node_modules/
+_emailEvent.json
+appHello.js
+appStart.js
